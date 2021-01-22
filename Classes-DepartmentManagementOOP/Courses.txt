@@ -1,0 +1,40 @@
+EE116	Introduction to Computing	2	CS
+EL116	Introduction to Computing Lab	1	CS
+ME102	Engineering Drawing	1	EE
+MT117	Applied Calculus	3	MATH
+NS110	Physics for Engineers	3	SCIENCE
+NL110	Physics for Engineers Lab	1	SCIENCE
+SS101	English Language	3	HUMANITIES
+SS111	Islamic & Religious Studies	3	HUMANITIES
+CS214	Programming Fundamentals	3	CS
+CL214	Programming Fundamentals Lab	1	CS
+EE115	Linear Circuit Analysis	3	EE
+EL115	Linear Circuit Analysis Lab	1	EE
+EE211	Engineering Workshop	1	EE
+MT203	Differential Equations	3	MATH
+SS113	Pakistan Studies	3	HUMANITIES
+EE228	Electrical Network Analysis	3	EE
+EE228	Electrical Network Analysis Lab	1	EE
+EL221	Electro-Mechanical Systems Lab	1	EE
+EE223	Signal & Systems	3	EE
+EL223	Signal & Systems Lab	1	EE
+EE227	Digital Logic Design	3	EE
+EL227	Digital Logic Design Lab	1	EE
+EE319	Probability & Random Processes	3	EE
+MT306	Multivariable Calculus	3	MATH
+EE304	Feedback Control System	3	EE
+EL304	Feedback Control system Lab	1	EE
+SS216	Engineering Economics	3	SCIENCE
+SS123	Communication Skills	3	HUMANITIES
+EE302	Digital Signal Processing	3	EE
+EL302	Digital Signal Processing Lab	1	EE
+EE324	Power Electronics	3	EE
+EL324	Power Electronics Lab	1	EE
+EE430	Power Distribution & Utilization	3	EE
+EL430	Power Distribution & Utilization Lab	1	EE
+EE421	Computer Architecture	3	EE
+EL421	Computer Architecture Lab	1	EE
+EE407	Wave Prop. and Antenna Th.	3	EE
+EL407	Wave Prop. and Antenna Th. Lab	1	EE
+EE224	Electronic Circuit Design	3	EE
+EL224	Electronic Circuit Design Lab	1	EE
